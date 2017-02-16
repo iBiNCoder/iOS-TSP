@@ -10,3 +10,4 @@
 ### 2.蚁群算法
 #### 参考链接：
 > * [蚁群算法与TSP问题](http://blog.sina.com.cn/s/blog_4a064aed0100xnw0.html)
+> * [蚁群算法（C语言实现）](http://blog.sina.com.cn/s/blog_6bb1b4b001016pt0.html)
